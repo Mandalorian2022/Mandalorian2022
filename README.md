@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mandalorian2022
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity & System Admin
 - 🌱 I’m currently learning Python language programing
 - 📫 How to reach me Mandalore.Secure@gmail.com
 
