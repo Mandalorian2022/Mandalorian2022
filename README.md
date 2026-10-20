@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @Mandalorian2022
-- 👀 I’m interested in Cybersecurity & System Admin
-- 🌱 I’m currently learning Python language programing
-- 📫 How to reach me Mandalore.Secure@gmail.com
+# Reza Faraji
 
-<!---
-Mandalorian2022/Mandalorian2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Systems administrator for a university computer science department, finishing an M.S. in Cybersecurity.
+I run the kind of infrastructure attackers like — GPU clusters, research servers, an identity migration
+in flight — and spend the rest of my time on the detection side of the same problem.
+
+## What I work on
+
+- **Detection engineering.** Sigma rules, correlation, behavioural analytics, and evaluation against
+  labeled data rather than gut feel.
+- **Research infrastructure.** Proxmox, FreeIPA, Slurm GPU fleets, storage, monitoring and log pipelines
+  for a department that runs its own hardware.
+- **Security research.** CTFs (National Cyber League), hardware tooling, reverse engineering.
+
+## Featured work
+
+| Project | What it is |
+|---|---|
+| [siem-detection-lab](https://github.com/Mandalorian2022/siem-detection-lab) | A Sigma rule engine with correlation rules, behavioural analytics (beaconing, impossible travel, DGA, exfiltration volume), risk-based incident grouping and a measured evaluation harness, run against a synthetic week of identity and network telemetry with labeled attacks and benign look-alikes. |
+| [log-anomaly-triage](https://github.com/Mandalorian2022/log-anomaly-triage) | Unsupervised anomaly detection on service metrics that produces a ranked, advisory triage queue for a human — it decides what to look at, never what to do. |
+| [csflow](https://github.com/Mandalorian2022/csflow) | A privacy-first fleet status pipeline: aggregation, a publish delay and a fail-closed privacy gate so a public status page cannot leak a single hostname. |
+
+Every project is synthetic and reproducible: no real hosts, accounts or logs, and the numbers in each
+README come from running the code in that repository.
+
+## Toolbox
+
+`Python` `Bash` `PowerShell` `Linux` `Windows Server` `Proxmox` `FreeIPA` `Slurm` `Splunk` `Sigma` `Git`
+
+## Elsewhere
+
+Aviation and air-traffic control nerd. Open to conversations about detection engineering and research
+infrastructure — reach me through GitHub.
