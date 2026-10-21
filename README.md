@@ -16,9 +16,9 @@ in flight — and spend the rest of my time on the detection side of the same pr
 
 | Project | What it is |
 |---|---|
-| [siem-detection-lab](https://github.com/Mandalorian2022/siem-detection-lab) | A Sigma rule engine with correlation rules, behavioural analytics (beaconing, impossible travel, DGA, exfiltration volume), risk-based incident grouping and a measured evaluation harness, run against a synthetic week of identity and network telemetry with labeled attacks and benign look-alikes. |
-| [log-anomaly-triage](https://github.com/Mandalorian2022/log-anomaly-triage) | Unsupervised anomaly detection on service metrics that produces a ranked, advisory triage queue for a human — it decides what to look at, never what to do. |
-| [csflow](https://github.com/Mandalorian2022/csflow) | A privacy-first fleet status pipeline: aggregation, a publish delay and a fail-closed privacy gate so a public status page cannot leak a single hostname. |
+| [siem-detection-lab](https://github.com/farajisec/siem-detection-lab) | A Sigma rule engine with correlation rules, behavioural analytics (beaconing, impossible travel, DGA, exfiltration volume), risk-based incident grouping and a measured evaluation harness, run against a synthetic week of identity and network telemetry with labeled attacks and benign look-alikes. |
+| [log-anomaly-triage](https://github.com/farajisec/log-anomaly-triage) | Unsupervised anomaly detection on service metrics that produces a ranked, advisory triage queue for a human — it decides what to look at, never what to do. |
+| [csflow](https://github.com/farajisec/csflow) | A privacy-first fleet status pipeline: aggregation, a publish delay and a fail-closed privacy gate so a public status page cannot leak a single hostname. |
 
 Every project is synthetic and reproducible: no real hosts, accounts or logs, and the numbers in each
 README come from running the code in that repository.
