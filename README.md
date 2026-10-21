@@ -29,5 +29,7 @@ README come from running the code in that repository.
 
 ## Elsewhere
 
+Resume and project write-ups: **[farajisec.github.io](https://farajisec.github.io)**.
+
 Aviation and air-traffic control nerd. Open to conversations about detection engineering and research
 infrastructure — reach me through GitHub.
